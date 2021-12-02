@@ -1,0 +1,1 @@
+export const fetchMovies = () => fetch('http://localhost:8000/movies');

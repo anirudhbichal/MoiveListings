@@ -1,0 +1,4 @@
+export const FETCH_GENRE = 'FETCH_GENRE';
+export const FETCH_MOVIE = 'FETCH_MOVIE';
+export const GENRE_SELECTED = 'GENRE_SELECTED';
+export const FILTER_MOVIES = 'FILTER_MOVIES';

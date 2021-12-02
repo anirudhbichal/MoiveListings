@@ -1,0 +1,1 @@
+export const fetchGenres = () => fetch('http://localhost:8000/genres');
